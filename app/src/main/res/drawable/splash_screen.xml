@@ -1,0 +1,15 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="opaque">
+
+    <item>
+        <shape>
+            <solid android:color="#33B5E5"/>
+        </shape>
+    </item>
+
+    <item>
+        <bitmap
+            android:src="@drawable/ic_exchange_rates_100dp"
+            />
+    </item>
+
+</layer-list>

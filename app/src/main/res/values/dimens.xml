@@ -1,0 +1,15 @@
+<resources>
+    <!--    -->
+    <dimen name="title_size">18sp</dimen>
+    <dimen name="text_normal_size">18sp</dimen>
+    <dimen name="text_small_size">18sp</dimen>
+
+    <dimen name="exchange_rates_">16dp</dimen>
+    <dimen name="exchange_rates_spinner_height">44dp</dimen>
+    <dimen name="exchange_rates_margin">8dp</dimen>
+    <dimen name="exchange_rates_row_margin">8dp</dimen>
+    <dimen name="exchange_rates_row_padding">16dp</dimen>
+    <dimen name="exchange_rates_row_1">10dp</dimen>
+    <dimen name="exchange_rates_row_2">10dp</dimen>
+
+</resources>

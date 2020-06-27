@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+
+    <string name="failure_network_connection">No Network Connection.</string>
+    <string name="failure_server_error">Server Error</string>
+    <string name="no_exchange_rate_data">No exchange rate data is available for the selected currency.</string>
+    <string name="last_week">last week</string>
+    <string name="base_currency">base currency</string>
+
+</resources>

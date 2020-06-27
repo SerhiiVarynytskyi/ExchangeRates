@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="fragmentContainer"/>
+    <item type="id" name="currencyName"/>
+    <item type="id" name="currencyValue"/>
+    <item type="id" name="baseCurrencySpinner"/>
+    <item type="id" name="recyclerView"/>
+    <item type="id" name="title"/>
+</resources>
